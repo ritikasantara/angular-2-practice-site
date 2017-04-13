@@ -1,0 +1,111 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+
+    padding: 30px;
+    background: #f2f2f2;
+    
+}
+.user_input{
+
+    padding: 30px;
+    background: #faf2f2;
+    margin: 0 auto;
+
+}
+.hobby_input{
+    padding: 30px 0 30px 0;
+}
+
+h1{
+    color: #004d80;
+}
+
+p{
+    color: #004d80;
+    padding-top: 20px;
+}
+
+
+h3{
+    color: #004d80;
+    padding: 20px 0 10px 0;
+
+}
+
+#hobby_container{
+
+    padding: 30px 0 30px 0;
+    width: 20%;
+    float: right;
+    position: absolute;
+    top: 160px;
+    right: -60px;
+}
+
+#hobby_button{
+
+    width: 10%;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 1px 2px 3px #666;
+    float: right;
+    position: absolute;
+    top: 130px;
+    right: 90px;
+
+}
+
+#delete_button{
+
+    border: none;
+    width: 10%;
+    height: 15px;
+    position: relative;
+    left: 10px;
+
+}
+#list{
+
+    color: tomato;
+ 
+}
+
+#post_heading{
+
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+#posts_container_wrap{
+
+    background:#f2f2f2;
+}
+
+#posts_container{
+
+    background: #f0fff0;
+    margin: 30px auto;
+    padding: 30px;
+    width: 70%;
+    text-align: center;
+    color: darkblue;
+}
+
+#posts_title{
+
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+}

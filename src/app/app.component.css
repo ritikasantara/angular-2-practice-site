@@ -1,0 +1,5 @@
+ul li{
+    color: teal;
+    text-decoration: underline;
+    cursor: pointer;
+}
